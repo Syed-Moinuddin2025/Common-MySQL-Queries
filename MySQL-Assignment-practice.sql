@@ -22,4 +22,4 @@ VALUES
     ('Anita', 'Sharma', 'Marketing', 60000, '2023-02-20', 27, 'anita.sharma@example.com'),
     ('David', 'Jones', 'IT', 75000, '2018-08-30', 36, NULL),
     ('Sophia', 'Williams', 'HR', 47000, '2020-12-15', NULL, 'sophia.williams@example.com');
-select * from employees3;
+select * from employees3 limit 3;
